@@ -6,7 +6,7 @@
 # Text-to-Image Generator with Stable Diffusion
 
 [![Open in Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your-notebook-url-here)](https://colab.research.google.com/drive/16Gv2FbThTOpwE9gDUqQuZU2yDR1IxiIn?usp=drive_link)
-
+````
 Generate images from text prompts using Stable Diffusion with customizable settings.
 
 ## Features
@@ -33,7 +33,7 @@ You can install the dependencies using:
 
 ```bash
 pip install torch diffusers accelerate transformers
-````
+```
 
 ## Usage
 
